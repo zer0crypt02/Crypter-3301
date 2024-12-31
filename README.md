@@ -10,6 +10,6 @@ Sonra program sizde oluşturulan keylogger.py dosyasının yolunu ister. Yoldoğ
 Exe başarılı bir şekilde oluşturulursa server.py çalıştırılır ve oluşturulan exe'nin açılması beklenir. Bazı ufak hatalar olabilir(Ufak hataları düzelteceğiz).
 
 git clone https://github.com/zer0crypt02/Crypter-3301<br>
-cd Crypter-3301
-pip3 install -r requirements.txt
-python3
+cd Crypter-3301<br>
+pip3 install -r requirements.txt<br>
+python3 Crypter3301.py
